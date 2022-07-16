@@ -45,7 +45,7 @@ int main(int argc, char * argv [])
 		printf("     lho, que vai assumir o trono em meu lugar.                     \n\n");*/
 
         printf("   King: I have dedicated my life to taking care of my kingdom, however I am dying    \n");      
-        printf("         and it is time for me to advise you, my son, who will take the throne  in my \n");    
+        printf("         and it is time for me to advise you, my son, who will take the throne in my  \n");    
         printf("         place.                                                                       \n\n");      
         
         sleep(10);
