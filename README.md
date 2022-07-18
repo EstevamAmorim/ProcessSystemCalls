@@ -1,7 +1,7 @@
 # ProcessSystemCalls
 ## Executing
 
-To execute, just type the following to compile the code and create the file to be executed:
+Just type the following to compile the code and create the file to be executed:
 ```
 gcc -o OldKing OldKing.c
 gcc -o NewKing NewKing.c
